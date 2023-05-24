@@ -1,0 +1,13 @@
+.square{
+    background-color: rgb(255, 203, 33);
+    line-height: 50vh;
+    height: 50vh;
+    width: 30vw;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+
+}
